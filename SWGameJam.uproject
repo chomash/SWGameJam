@@ -13,8 +13,6 @@
 		}
 	],
 	"TargetPlatforms": [
-		"Windows",
-		"Linux",
-		"LinuxArm64"
+		"Windows"
 	]
 }
